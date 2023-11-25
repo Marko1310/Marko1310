@@ -12,13 +12,17 @@
 
 - 💬 Ask me about **Node.js, NestJS, React**
 
-- ⚡ Fun fact **From blueprints to code! I transitioned from civil engineering to software development, proving that I can build more than just bridges. 🏗️➡️💻 #EngineerToCoder**
+- ⚡ Fun fact **From blueprints to code! I transitioned from civil engineering to software development 🏗️➡️💻 #EngineerToCoder**
 
 ### 👔 Soft skills.
 ✅ Creativity
+
 ✅ Good communication skills
+
 ✅ Problem-solving
+
 ✅ Teamwork
+
 ✅ Professionalism 
 
 </br>
