@@ -14,6 +14,13 @@
 
 - ⚡ Fun fact **From blueprints to code! I transitioned from civil engineering to software development, proving that I can build more than just bridges. 🏗️➡️💻 #EngineerToCoder**
 
+### 👔 Soft skills.
+✅ Creativity
+✅ Good communication skills
+✅ Problem-solving
+✅ Teamwork
+✅ Professionalism 
+
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
