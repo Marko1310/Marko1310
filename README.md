@@ -3,7 +3,7 @@
 </br>
 <img alt="code" width="400" align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
-- 🔭 I’m currently working on [Workout Server](https://github.com/Marko1310/workout_server)
+- 🔭 I’m currently working on [Workout Tracker](https://github.com/Marko1310/workout_tracker_v3)
 
 - 🌱 I’m currently learning **NestJS, React, PostgreSQL, AWS**
 
